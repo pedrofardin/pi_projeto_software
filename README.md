@@ -1,1 +1,1 @@
-![Coverage](.gitgub/badges/jacoco.svg)
+![Coverage](.github/badges/jacoco.svg)
